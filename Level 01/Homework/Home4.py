@@ -1,0 +1,3 @@
+# str is used to Make an integer a string Example print(17 + "Nikoloz") it will show and error to fix that we need to type print(str(17) + "Nikoloz")
+# int is used to make an integer a string Example print(17 + "example") it will not work to fix that we need to use int example print(int(example)  + 17)
+# and finnaly float is used to make an number or lets say integer a full number example if we do print(10 // 5) it will show 2 and to get the full number we need to print(17 / 5)
